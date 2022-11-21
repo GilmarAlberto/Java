@@ -1,5 +1,5 @@
 /**
- * Progrma que imprime em tela Olá Mundo!
+ * Programa que imprime em tela Olá Mundo!
  * seguido de outra linha
  * @author Gilmar Alberto
  */
