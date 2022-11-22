@@ -12,5 +12,6 @@ public class Variavel {
         int idade = 58;
         boolean casado = true;
         System.out.println(nome);
+        System.out.println("idade: "+ idade);
     } //fim do método
 } // fim da classe
