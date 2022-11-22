@@ -10,8 +10,15 @@ public class Variavel {
     public static void main(String[] args) {
         String nome = "Gilmar";
         int idade = 58;
-        boolean casado = true;
+        boolean casado = false;
         System.out.println(nome);
         System.out.println("idade: "+ idade);
+
+        if (casado){
+            System.out.println("Casado");
+        }
+        else{
+            System.out.println("Solteiro");
+        }
     } //fim do método
 } // fim da classe
